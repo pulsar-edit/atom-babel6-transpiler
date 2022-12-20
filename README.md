@@ -1,3 +1,5 @@
+# This Repo is Archived Under Pulsar-Edit due to not being used within the Org, and it's functionality being depreciated [here](https://github.com/pulsar-edit/pulsar/blob/master/docs/rfcs/005-pretranspile.md#motivation).
+
 # atom-babel6-transpiler
 
 This project implements an [Atom package transpiler]() that transpiles your package's files with Babel 6.
